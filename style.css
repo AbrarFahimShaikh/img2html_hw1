@@ -1,0 +1,151 @@
+body{margin:0;
+padding:0;
+background: linear-gradient(to top,#121B2A,#2c3e50,#3498db,#2c3e50,#121B2A);}
+/*starting header*/
+header{
+    background-color: #121B2A;
+    padding:10px 0px;
+}
+
+.wrapper {
+    overflow:hidden;
+    width:80%;
+    /* border:1px solid white; */
+    margin: 0 auto; 
+    
+}
+
+.logo {
+    float:left;
+    width: 18%;
+    /* border: 1px solid white; */
+    
+}
+.logo img{
+    width:100%;
+
+}
+
+.menu {
+    margin-top: 40px;
+    float:right;
+    width: 70%;
+    /* border: 1px solid white; */
+    
+    
+}
+.menu ul {
+    float: right;}
+
+.menu ul li {
+    float: left;
+
+    list-style:none;
+}
+.menu ul li a{text-decoration: none;
+color:white;
+font-size: 16px;
+font-weight: 400;
+font-family: sans-serif;
+text-transform: uppercase;
+display:inline-block;
+padding:0 20px;}
+
+.menu ul li:last-child a{
+    padding-right:0;
+}
+.menu ul li a:hover{
+    color: #0177BD;
+}
+
+header{
+    background-color:#121B2A; ;
+    padding:10px 0px;
+
+}
+
+.wrapper1 {
+    width:80%;
+    overflow:hidden;
+    margin:0 auto;
+}
+
+.logo1 {
+    width:18%;
+    float: left;
+}
+
+.logo1 img{width:100%;}
+.menu1 {
+    float:right;
+    width:70%;
+    margin-top: 40px;
+}
+.menu1 ul {float:right;}
+
+.menu1 ul li{list-style: none;
+float:left;}
+
+.menu1 ul li a{text-decoration: none;
+font-size: 16px;
+font-weight: 400;
+font-family: sans-serif;
+text-transform: uppercase;
+color:white;
+padding:0 20px;
+display:inline-block;}
+
+.menu1 ul li:last-child a{
+    padding-right: 0px;
+}
+
+.menu1 ul li a:hover{
+    color:#0177BD;
+}
+
+
+header{
+    background-color:#121B2A; ;
+    padding:10px 0px;
+
+}
+
+.wrapper2 {
+    width:80%;
+    overflow:hidden;
+    margin:0 auto;
+}
+
+.logo2 {
+    width:18%;
+    float: left;
+}
+
+.logo2 img{width:100%;}
+.menu2 {
+    float:right;
+    width:70%;
+    margin-top: 40px;
+}
+.menu2 ul {float:right;}
+
+.menu2 ul li{list-style: none;
+float:left;}
+
+.menu2 ul li a{text-decoration: none;
+font-size: 16px;
+font-weight: 400;
+font-family: sans-serif;
+text-transform: uppercase;
+color:white;
+padding:0 20px;
+display:inline-block;}
+
+.menu2 ul li:last-child a{
+    padding-right: 0px;
+}
+
+.menu2 ul li a:hover{
+    color:#0177BD;
+}
+/*ending header*/
